@@ -3,7 +3,7 @@
 // file into the /music folder next to this page.
 // ============================================================
 const TRACKS = [
-  { title: 'Our Song', src: 'music/track1.mp3' },
+  { title: 'Our Song', src: 'track1.mp3' },
 ];
 
 // ---------- Slide navigation ----------
